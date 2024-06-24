@@ -19,14 +19,18 @@
 
 
 ```
-wikiextractor <xml_file_path> --no-templates
+python train.py --multiprocessing-distributed
 ```
 
 ### Training
 
+```
+
+```
+
 ### Evaluation
 
-KorQuAD and XORQA data can be downloaded from https://korquad.github.io/category/1.0_KOR.html and https://nlp.cs.washington.edu/xorqa/. Furthermore, Wiki data should be downloaded for retrieving external information. Wiki data can be downloaded from https://archive.org/download/enwiki-20190201/enwiki-20190201-pages-articles-multistream.xml.bz2 and https://archive.org/download/kowiki-20190201/kowiki-20190201-pages-articles-multistream.xml.bz2
+KorQuAD and XORQA data can be downloaded from [KorQuAD](https://korquad.github.io/category/1.0_KOR.html) and [XORQA](https://nlp.cs.washington.edu/xorqa/). Furthermore, Wiki data should be downloaded for retrieving external information. Wiki data can be downloaded from [enwiki](https://archive.org/download/enwiki-20190201/enwiki-20190201-pages-articles-multistream.xml.bz2)and kowiki(https://archive.org/download/kowiki-20190201/kowiki-20190201-pages-articles-multistream.xml.bz2)
 
 1. We should use wikiExtractor for using wiki data
 ```
