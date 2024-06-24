@@ -1,7 +1,6 @@
 # 프로젝트명
 
-📢 20##년 1/여름/2/겨울학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
-🎉 20##년 1/여름/2/겨울학기 AIKU Conference 열심히상 수상!
+📢 2024년 1학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
 
 ## 소개
 
@@ -21,10 +20,11 @@
 
 ## 예시 결과
 
-(사용 방법을 실행했을 때 나타나는 결과나 시각화 이미지를 보여주세요)
+
 
 ## 팀원
 
-(프로젝트에 참여한 팀원의 이름과 깃헙 프로필 링크, 역할을 작성해주세요)
-
-- [홍길동](홍길동의 github link): (수행한 역할을 나열)
+- [오원준](https://github.com/owj0421): Leader, Training(Overall), Distributive processing, Paper(Abstract, Introduction, Approach, Conclusion), Bi-text dataset generation 
+- [김민영](https://github.com/EuroMinyoung186/): Evaluation(Overall), Distributive processing, Paper(Experiments), Bi-text dataset generation
+- [박정규]: Train(Stage2), Paper(Introduction, Experiments, Related Work)
+- [임주원]: Train(Stage1, Stage2), paper(Analtsis), MS MARCO dataset generation
